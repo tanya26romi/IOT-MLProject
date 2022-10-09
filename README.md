@@ -20,7 +20,7 @@ Software Used -
 Python Libraries - 
 - OpenCV
 - Numpy
--
+- Xigbee module
 
 Small Video clip - 
 https://drive.google.com/file/d/1S-IdnUxmgs7PY43q2rem0Jf_75m5MJfz/view?usp=sharing
